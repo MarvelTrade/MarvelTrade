@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Антон Белый — продюсер, собираю инструменты с ИИ">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0d10"/>
+      <stop offset="1" stop-color="#17151c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.88" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#ffd23f" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffd23f" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .f{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+    </style>
+  </defs>
+  <rect width="1200" height="400" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="400" rx="24" fill="url(#glow)"/>
+
+  <!-- кнопка записи + строки суфлёра -->
+  <g transform="translate(1010 92)">
+    <rect x="-70" y="-6" width="140" height="12" rx="6" fill="#ffd23f"/>
+    <rect x="-55" y="18" width="110" height="12" rx="6" fill="#ffd23f" opacity="0.6"/>
+    <rect x="-38" y="42" width="76" height="12" rx="6" fill="#ffd23f" opacity="0.3"/>
+    <circle cx="0" cy="150" r="58" fill="#fff"/>
+    <circle cx="0" cy="150" r="48" fill="#ff3b30"/>
+  </g>
+
+  <text x="64" y="84" class="f" font-size="18" font-weight="600" fill="#ffd23f" letter-spacing="3">ПРОДЮСЕР · МЕДИА · ИИ-ИНСТРУМЕНТЫ</text>
+  <text x="62" y="160" class="f" font-size="72" font-weight="800" fill="#f2f2f4">Антон Белый</text>
+  <text x="64" y="208" class="f" font-size="24" fill="#b4b4be">13 лет запускаю каналы и делаю контент.</text>
+  <text x="64" y="240" class="f" font-size="24" fill="#b4b4be">Теперь собираю себе инструменты с ИИ — и раздаю их.</text>
+
+  <g class="f" transform="translate(64 300)">
+    <text x="0" y="0" font-size="34" font-weight="800" fill="#f2f2f4">115 млн</text>
+    <text x="0" y="28" font-size="15" fill="#8a8a94">просмотров за 3 года</text>
+    <text x="210" y="0" font-size="34" font-weight="800" fill="#f2f2f4">15+</text>
+    <text x="210" y="28" font-size="15" fill="#8a8a94">каналов с нуля</text>
+    <text x="390" y="0" font-size="34" font-weight="800" fill="#f2f2f4">2,9 млн</text>
+    <text x="390" y="28" font-size="15" fill="#8a8a94">подписчиков совокупно</text>
+    <text x="620" y="0" font-size="34" font-weight="800" fill="#ffd23f">8 кнопок</text>
+    <text x="620" y="28" font-size="15" fill="#8a8a94">YouTube: золотая и 7 серебряных</text>
+  </g>
+</svg>
