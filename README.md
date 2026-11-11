@@ -21,7 +21,7 @@
       <a href="https://marveltrade.github.io/gorky-67-play/">▶ Играть</a> · <a href="https://github.com/MarvelTrade/gorky-67">Код</a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://marveltrade.github.io/#olya"><img src="https://marveltrade.github.io/img/olya.png" alt="Олины шарики" width="100%"></a>
+      <a href="https://marveltrade.github.io/#olya"><img src="https://marveltrade.github.io/img/olya-wide.png" alt="Олины шарики" width="100%"></a>
       <h3>Олины шарики</h3>
       <sub>семейная игра «три в ряд»</sub>
       <p>Тёплая игра-подарок для всей семьи: собирай шарики по три и больше.</p>
